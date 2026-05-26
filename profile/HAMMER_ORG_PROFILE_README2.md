@@ -1,13 +1,5 @@
 ## Hybrid Autonomous Manufacturing, Moving from Evolution to Revolution
 
-<a href="https://www.hammer.osu.edu" alt="HAMMER Website Link">
-    <img src="https://img.shields.io/badge/Visit Us Online-hammer.osu.edu-red?style=flat" >
-</a>
-
-<a href="https://www.youtube.com/watch?v=IcvAVGTm3us" alt="Youtube Link">
-    <img src="https://img.shields.io/badge/Youtube--blue?style=social&logo=youtube" >
-</a>
-
 ### About HAMMER
 
 NSF's HAMMER is developing a new approach to design and manufacturing, putting product needs first and then finding new manufacturing pathways based on the agility of artisans and reproducibility of machines. HAMMER is the hub for technical, commercial, educational and standard setting for Hybrid Autonomous Manufacturing knowledge creation, deployment and commercial development.

@@ -43,7 +43,7 @@ This organization acts as a curated entry point for the ecosystem. Active develo
       <td><a href="https://github.com/aiml-nu/Dauber">Dauber</a><br><a href="https://github.com/t-w00d/LC-CNC">LC-CNC</a></td>
     </tr>
     <tr>
-      <td><strong>Research integration</strong></td>
+      <td><strong>Open-source manufacturing hardware</strong></td>
       <td><a href="https://github.com/vishnu-ramasamy/arcResearch.git">arcResearch</a></td>
     </tr>
   </tbody>

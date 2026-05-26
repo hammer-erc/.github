@@ -149,7 +149,3 @@ Most repositories listed here are upstream projects owned by individual research
 - Issues and pull requests should be opened upstream unless the issue concerns HAMMER-level integration.
 - HAMMER uses this catalog to provide visibility, coordination, and cross-project context.
 - Repository ownership should move into the HAMMER organization only when HAMMER becomes the long-term maintainer.
-
-## Description Basis
-
-Descriptions are intentionally short and conservative. Where possible, they are based on public repository README text or repository metadata. Where a repository did not expose enough public metadata during review, the description uses the project label provided for the HAMMER catalog.

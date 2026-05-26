@@ -38,11 +38,14 @@ This organization acts as a curated entry point for the ecosystem. Active develo
       <td><strong>Digital twins and generative models</strong></td>
       <td><a href="https://github.com/yiping514/DED_DT">DED_DT</a><br><a href="https://github.com/mesoOSU/PB-GAN">PB-GAN</a></td>
     </tr>
-    <tr>
-      <td><strong>Open-source manufacturing hardware</strong></td>
-      <td><a href="https://github.com/aiml-nu/Dauber">Dauber</a><br><a href="https://github.com/t-w00d/LC-CNC">LC-CNC</a></td>
-      <td><a href="https://github.com/vishnu-ramasamy/arcResearch.git">arcResearch</a></td>
-    </tr>
+  <tr>
+    <td><strong>Open-source manufacturing hardware</strong></td>
+    <td>
+      <a href="https://github.com/aiml-nu/Dauber">Dauber</a><br>
+      <a href="https://github.com/t-w00d/LC-CNC">LC-CNC</a><br>
+      <a href="https://github.com/vishnu-ramasamy/arcResearch.git">arcResearch</a>
+    </td>
+  </tr>
   </tbody>
 </table>
 

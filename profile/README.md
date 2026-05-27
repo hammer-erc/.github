@@ -44,6 +44,7 @@ This organization acts as a curated entry point for the ecosystem. Active develo
       <a href="https://github.com/aiml-nu/Dauber">Dauber</a><br>
       <a href="https://github.com/t-w00d/LC-CNC">LC-CNC</a><br>
       <a href="https://github.com/vishnu-ramasamy/arcResearch.git">arcResearch</a>
+      <a href="https://github.com/Amumu-ze1ast/ncat_automated_forging_clay">Automated Forging Clay</a>
     </td>
   </tr>
   </tbody>

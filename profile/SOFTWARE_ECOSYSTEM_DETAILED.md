@@ -94,6 +94,12 @@ This catalog is an integration map, not a fork list. Active development remains 
     <td><a href="https://github.com/vishnu-ramasamy/arcResearch.git">vishnu-ramasamy/arcResearch</a></td>
     <td>Open-source Wire Arc Additive Manufacturing (WAAM) platform.</td>
   </tr>
+  <tr>
+  <td>Open hardware</td>
+  <td><strong>Automated Forging Clay</strong></td>
+  <td><a href="https://github.com/Amumu-ze1ast/ncat_automated_forging_clay">Amumu-ze1ast/ncat_automated_forging_clay</a></td>
+  <td>Automated forging clay project repository.</td>
+  </tr>
   </tbody>
 </table>
 
@@ -135,6 +141,7 @@ This catalog is an integration map, not a fork list. Active development remains 
 | Dauber | <https://github.com/aiml-nu/Dauber> | Low-cost additive friction stir deposition with small-scale continuous wire feed enabled by orbital motion. |
 | LC-CNC | <https://github.com/t-w00d/LC-CNC> | Low-cost desktop CNC milling machine design and curriculum, including design files, instructions, and software resources. |
 | arcResearch | <https://github.com/vishnu-ramasamy/arcResearch.git> | Open-source Wire Arc Additive Manufacturing (WAAM) platform. |
+| Automated Forging Clay | <https://github.com/Amumu-ze1ast/ncat_automated_forging_clay> | Automated forging clay project repository. |
 
 ## Stewardship Model
 
